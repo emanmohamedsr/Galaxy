@@ -1,3 +1,3 @@
 # Galaxy
 ## Pure (HTML & CSS) Simple Project.
-### Demo 
+### Demo (https://emanmohamedsr.github.io/Galaxy/)
